@@ -1,0 +1,7 @@
+body { font-family: sans-serif; }
+
+nav { background-color: #e5ff00; padding: 10px; }
+
+table { width: 100%; border-collapse: collapse; }
+
+th, td { padding: 8px; border: 1px solid #bbff00; }
